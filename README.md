@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alif Aiman
 ==================================================================================================================================
 
-Student Universiti Teknologi Malaysia
--------------------------------------
+UTM student | Bachelor of Computer Science(Computer Network and Security)
+-------------------------------------------------------------------------
 
 I am a student of networking
 
