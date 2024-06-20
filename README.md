@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 
-<img src="image/pict.jpg" alt="Profile Picture" width="380" height="320">
+<img src="image/pict.jpg" alt="Profile Picture" width="300" height="300">
 
 UTM student | Bachelor of Computer Science(Computer Network and Security)
 -------------------------------------------------------------------------
