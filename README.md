@@ -32,7 +32,7 @@ I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), wh
 - CSS3
 - JavaScript
 - PHP
-- SQL
+- SQLs
 
 ### Badges
 
