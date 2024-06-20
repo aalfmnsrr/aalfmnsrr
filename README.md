@@ -55,7 +55,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 - **CISCO** - CCNAv7: Introduction to Network
 - **MUET** - Band 4.0
-- **SEGTA** - Spring Course Program in Surabaya, Indonesia
+- **SEGTA** - Spring Course Program at Surabaya, Indonesia
 
 
 ## Honors and Awards 🥇
@@ -85,7 +85,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ## Reflections
 
 
-### Assignment 1: Report on Comparative Evaluation of Websites Using Google Lighthouse 📄 
+### 📄 Assignment 1: Report on Comparative Evaluation of Websites Using Google Lighthouse  
 
 ***Summary:*** In this assignment, me and my team conducted a comparative evaluation of various hospital websites using Google Lighthouse. This task allowed me to analyze key performance metrics such as loading speed, accessibility, and SEO. In the end of the report, I gained valuable insights into the importance of web performance optimization and the impact for the user experience.
 
@@ -97,7 +97,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 
 
-### Assignment 2: Designing and Developing a Personal Website Landing Page with HTML and CSS 🌐 
+### 🌐 Assignment 2: Designing and Developing a Personal Website Landing Page with HTML and CSS 
 
 
 ***Summary:*** In this assignment, I designed and developed a personal website landing page using HTML and CSS. According to the theme I chose, this task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalist.
@@ -110,7 +110,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 
 
-### Assignment 3: E-Portfolio Design and Development on GitHub 🗃 
+### 🗃 Assignment 3: E-Portfolio Design and Development on GitHub 
 
 
 ***Summary:*** In this assignment, I designed and developed my e-portfolio on GitHub. This project allowed me to showcase my skills and projects in a professional manner while learning to use GitHub Pages for my future career. Through this task, I gained valuable experience in version control, project documentation, and collaborative development workflows.
@@ -123,7 +123,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 
 
-### Project: Development of Hebak - An Educational Website for High School Students 💻 
+### 💻 Project: Development of Hebak - An Educational Website for High School Students 
 
 
 ***Summary:*** In this project, I developed Hebak, an educational website offering lessons for high school students. Through this development, I aimed to provide a valuable resource for students to enhance their learning experience outside the classroom. This project allowed me to apply my technical skills in web development to create a platform with educational content that allign with Ministry of Education(Malaysia).
