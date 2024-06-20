@@ -62,7 +62,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 ### 📄 Assignment 1: Report
 
-**Summary:** In this assignment, me and my team conducted a comparative evaluation of various hospital websites using Google Lighthouse. This task allowed me to analyze key performance metrics such as loading speed, accessibility, and SEO. In the end of the report, I gained valuable insights into the importance of web performance optimization and the impact for the user experience.
+***Summary:*** In this assignment, me and my team conducted a comparative evaluation of various hospital websites using Google Lighthouse. This task allowed me to analyze key performance metrics such as loading speed, accessibility, and SEO. In the end of the report, I gained valuable insights into the importance of web performance optimization and the impact for the user experience.
 
 
 **Improvement Suggestions:** To improve this assignment, I could evaluate from other web performance tools like GTmetrix or WebPageTest for a wider information. Additionally, by evaluating in more depth of websites, would provide a comprehensive understanding of common performance issues and best practices.
