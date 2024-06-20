@@ -50,6 +50,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ## Assignments 📑
 
 - [Assignment 1: Report](https://github.com/aalfmnsrr/Web-Programming-23-24/blob/main/Assignment%201/Web%20Programming%20Assignment%20Group%208%20-%20Alif%20Aiman.pdf)
+- [Assignment 2: Repository]([https://github.com/aalfmnsrr/Web-Programming-23-24/tree/main/Project](https://github.com/aalfmnsrr/Web-Programming-23-24/tree/main/Assignment%202))
 - [Assignment 2: Website](http://www.alif-aiman.rf.gd/)
 - [Assignment 3: GitHub E-portfolio](https://github.com/your_github_username/your_eportfolio_repo)
 
