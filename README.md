@@ -4,7 +4,7 @@ Welcome to my e-portfolio! I am a dedicated software developer with a background
 
 ## Hello, I'm Alif Aiman 👋
 
-![Profile Picture](image/pict.jpg)
+<img src="image/pict.jpg" alt="Profile Picture" width="150" height="150">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
