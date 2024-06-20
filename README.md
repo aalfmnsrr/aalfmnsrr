@@ -65,43 +65,43 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ***Summary:*** In this assignment, me and my team conducted a comparative evaluation of various hospital websites using Google Lighthouse. This task allowed me to analyze key performance metrics such as loading speed, accessibility, and SEO. In the end of the report, I gained valuable insights into the importance of web performance optimization and the impact for the user experience.
 
 
-**Improvement Suggestions:** To improve this assignment, I could evaluate from other web performance tools like GTmetrix or WebPageTest for a wider information. Additionally, by evaluating in more depth of websites, would provide a comprehensive understanding of common performance issues and best practices.
+***Improvement Suggestions:*** To improve this assignment, I could evaluate from other web performance tools like GTmetrix or WebPageTest for a wider information. Additionally, by evaluating in more depth of websites, would provide a comprehensive understanding of common performance issues and best practices.
 
 
-**Additional Reflections:** This assignment highlighted the critical role of performance evaluation in web development. It has inspired me to prioritize optimization in future projects.
+***Additional Reflections:*** This assignment highlighted the critical role of performance evaluation in web development. It has inspired me to prioritize optimization in future projects.
 
 
 ### 🌐 Assignment 2: Website
 
 
-**Summary:** In this assignment, I designed and developed a personal website landing page using HTML and CSS. According to the theme I chose, this task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalist.
+***Summary:*** In this assignment, I designed and developed a personal website landing page using HTML and CSS. According to the theme I chose, this task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalist.
 
 
-**Improvement Suggestions:** To improve this assignment, I could incorporate with every feature that HTML and CSS provided. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is responsives among various devices and screen sizes.
+***Improvement Suggestions:*** To improve this assignment, I could incorporate with every feature that HTML and CSS provided. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is responsives among various devices and screen sizes.
 
 
-**Additional Reflections:** This assignment depicted that the importance of web development skills are crucial in ensuring the meet of stakeholder. It inspired me to continue exploring advanced CSS techniques and modern design trends.
+***Additional Reflections:*** This assignment depicted that the importance of web development skills are crucial in ensuring the meet of stakeholder. It inspired me to continue exploring advanced CSS techniques and modern design trends.
 
 
 ### 🗃 Assignment 3: GitHub E-portfolio
 
 
-**Summary:** In this assignment, I designed and developed my e-portfolio on GitHub. This project allowed me to showcase my skills and projects in a professional manner while learning to use GitHub Pages for my future career. Through this task, I gained valuable experience in version control, project documentation, and collaborative development workflows.
+***Summary:*** In this assignment, I designed and developed my e-portfolio on GitHub. This project allowed me to showcase my skills and projects in a professional manner while learning to use GitHub Pages for my future career. Through this task, I gained valuable experience in version control, project documentation, and collaborative development workflows.
 
 
-**Improvement Suggestions:** To improve this assignment, I could enhance the e-portfolio by incorporating interactive elements. Additionally, using a static site generator like Jekyll could simplify updates and maintenance, ensuring the e-portfolio remains current and relevant.
+***Improvement Suggestions:*** To improve this assignment, I could enhance the e-portfolio by incorporating interactive elements. Additionally, using a static site generator like Jekyll could simplify updates and maintenance, ensuring the e-portfolio remains current and relevant.
 
 
-**Additional Reflections:** This assignment emphasized the importance of GitHub as a powerful platform for hosting and version control. Morover, I plan to continually update my e-portfolio followed by integrating new projects.
+***Additional Reflections:*** This assignment emphasized the importance of GitHub as a powerful platform for hosting and version control. Morover, I plan to continually update my e-portfolio followed by integrating new projects.
 
 
 ### 💻 Project
 
 
-**Summary:** In this project, I developed Hebak, an educational website offering lessons for high school students. Through this development, I aimed to provide a valuable resource for students to enhance their learning experience outside the classroom. This project allowed me to apply my technical skills in web development to create a platform with educational content that allign with Ministry of Education(Malaysia).
+***Summary:*** In this project, I developed Hebak, an educational website offering lessons for high school students. Through this development, I aimed to provide a valuable resource for students to enhance their learning experience outside the classroom. This project allowed me to apply my technical skills in web development to create a platform with educational content that allign with Ministry of Education(Malaysia).
 
 
-**Improvement Suggestions:** To improve Hebak, I could implement features such as interactive quizzes, discussion forums, or personalized learning paths to engage students more effectively. Additionally, incorporating multimedia elements like videos and interactive simulations could enhance the learning experience and cater to different learning styles.
+***Improvement Suggestions:*** To improve Hebak, I could implement features such as interactive quizzes, discussion forums, or personalized learning paths to engage students more effectively. Additionally, incorporating multimedia elements like videos and interactive simulations could enhance the learning experience and cater to different learning styles.
 
 
-**Additional Reflections:** This project reinforced my belief in the transformative power of technology in education. It inspired me to continue exploring ways to leverage digital tools to make learning more accessible and engaging for students. Moreover, it highlighted the importance of user-centered design and accessibility considerations in developing educational platforms that cater to diverse learners.
+***Additional Reflections:*** This project reinforced my belief in the transformative power of technology in education. It inspired me to continue exploring ways to leverage digital tools to make learning more accessible and engaging for students. Moreover, it highlighted the importance of user-centered design and accessibility considerations in developing educational platforms that cater to diverse learners.
