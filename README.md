@@ -52,7 +52,7 @@ I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), wh
 
 ## Assignments 📑
 
-- [Assignment 1: Report]()
+- [Assignment 1: Report](Assignment 1/Web Programming Assignment Group 8 - Alif Aiman.pdf)
 - [Assignment 2: Website](link_to_website)
 - [Assignment 3: GitHub E-portfolio](https://github.com/your_github_username/your_eportfolio_repo)
 
