@@ -16,7 +16,6 @@ I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), wh
 
 **Programming Languages:**
 
-- C
 - C++
 - Java
 - Matlab
