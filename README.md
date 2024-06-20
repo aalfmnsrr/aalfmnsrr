@@ -49,6 +49,10 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 - **Object-Oriented Programming** - Universiti Teknologi Malaysia
 - **Web Programming** - Universiti Teknologi Malaysia
+- **Operating System** - Universiti Teknologi Malaysia
+- **Computer Security** - Universiti Teknologi Malaysia
+- **Computer Network** - Universiti Teknologi Malaysia
+- **Computer Network Lab** - Universiti Teknologi Malaysia
 
 
 ## Certificate 📜
