@@ -4,10 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img src="image/pict.jpg" alt="Profile Picture" width="380" height="320">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Institution](https://img.shields.io/badge/Institution-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white)](https://yourinstitution.com)
-
 UTM student | Bachelor of Computer Science(Computer Network and Security)
 -------------------------------------------------------------------------
 
