@@ -59,7 +59,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 ## Projects 💻
 
-- [Project Repository](Project)
+- [Project Repository](https://github.com/aalfmnsrr/Web-Programming-23-24/tree/main/Project)
 - [Project Website](https://alif-aiman-cem-hebak.000webhostapp.com/)
 
 ## Reflections
