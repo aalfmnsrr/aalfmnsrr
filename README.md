@@ -58,8 +58,8 @@ I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), wh
 
 ## Projects 💻
 
-- [Project Repository](link_to_project_repo)
-- [Project Website](link_to_project_website)
+- [Project Repository](Project/P3)
+- [Project Website](https://alif-aiman-cem-hebak.000webhostapp.com/)
 
 ## Reflections
 
