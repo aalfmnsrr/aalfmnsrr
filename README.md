@@ -100,13 +100,17 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ### 🌐 Assignment 2: Designing and Developing a Personal Website Landing Page with HTML and CSS 
 
 
-***Summary:***In this assignment, I designed and developed a personal website landing page using HTML and CSS. This task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalism.
+<p style="line-height: 1.6;">
+    <strong>Summary:</strong> In this assignment, I designed and developed a personal website landing page using HTML and CSS. This task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalism.
+</p>
 
+<p style="line-height: 1.6;">
+    <strong>Improvement Suggestions:</strong> To improve this assignment, I could incorporate every feature that HTML and CSS provided. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is responsive to various devices and screen sizes.
+</p>
 
-***Improvement Suggestions:*** To improve this assignment, I could incorporate every feature that HTML and CSS provided. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is responsive to various devices and screen sizes.
-
-
-***Additional Reflections:*** This assignment depicted that the importance of web development skills is crucial in ensuring the needs of stakeholders. It inspired me to continue exploring advanced CSS techniques and modern design trends.
+<p style="line-height: 1.6;">
+    <strong>Additional Reflections:</strong> This assignment depicted that the importance of web development skills is crucial in ensuring the needs of stakeholders. It inspired me to continue exploring advanced CSS techniques and modern design trends.
+</p>
 
 
 
