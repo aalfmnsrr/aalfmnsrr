@@ -100,13 +100,13 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ### 🌐 Assignment 2: Designing and Developing a Personal Website Landing Page with HTML and CSS 
 
 
-***Summary:*** In this assignment, I designed and developed a personal website landing page using HTML and CSS. According to the theme I chose, this task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalist.
+***Summary:***In this assignment, I designed and developed a personal website landing page using HTML and CSS. This task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalism.
 
 
-***Improvement Suggestions:*** To improve this assignment, I could incorporate with every feature that HTML and CSS provided. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is responsives among various devices and screen sizes.
+***Improvement Suggestions:*** To improve this assignment, I could incorporate every feature that HTML and CSS provided. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is responsive to various devices and screen sizes.
 
 
-***Additional Reflections:*** This assignment depicted that the importance of web development skills are crucial in ensuring the meet of stakeholder. It inspired me to continue exploring advanced CSS techniques and modern design trends.
+***Additional Reflections:*** This assignment depicted that the importance of web development skills is crucial in ensuring the needs of stakeholders. It inspired me to continue exploring advanced CSS techniques and modern design trends.
 
 
 
@@ -119,14 +119,14 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ***Improvement Suggestions:*** To improve this assignment, I could enhance the e-portfolio by incorporating interactive elements. Additionally, using a static site generator like Jekyll could simplify updates and maintenance, ensuring the e-portfolio remains current and relevant.
 
 
-***Additional Reflections:*** This assignment emphasized the importance of GitHub as a powerful platform for hosting and version control. Morover, I plan to continually update my e-portfolio followed by integrating new projects.
+***Additional Reflections:*** This assignment emphasized the importance of GitHub as a powerful platform for hosting and version control. Moreover, I plan to continually update my e-portfolio, followed by integrating new projects.
 
 
 
 ### 💻 Project: Development of Hebak - An Educational Website for High School Students 
 
 
-***Summary:*** In this project, I developed Hebak, an educational website offering lessons for high school students. Through this development, I aimed to provide a valuable resource for students to enhance their learning experience outside the classroom. This project allowed me to apply my technical skills in web development to create a platform with educational content that allign with Ministry of Education(Malaysia).
+***Summary:*** In this project, I developed Hebak, an educational website offering lessons for high school students. Through this development, I aimed to provide a valuable resource for students to enhance their learning experience outside the classroom. This project allowed me to apply my technical skills in web development to create a platform with educational content that aligns with the Ministry of Education (Malaysia).
 
 
 ***Improvement Suggestions:*** To improve Hebak, I could implement features such as interactive quizzes, discussion forums, or personalized learning paths to engage students more effectively. Additionally, incorporating multimedia elements like videos and interactive simulations could enhance the learning experience and cater to different learning styles.
