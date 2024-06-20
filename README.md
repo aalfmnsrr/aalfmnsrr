@@ -10,7 +10,10 @@ Welcome to my e-portfolio! I am a dedicated software developer with a background
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Institution](https://img.shields.io/badge/Institution-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white)](https://yourinstitution.com)
 
-I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), where I'm diving into the world of Network Security.
+UTM student | Bachelor of Computer Science(Computer Network and Security)
+-------------------------------------------------------------------------
+
+A student who dreams to be a network administrator or cybersecurity analyst one day. My goal is to pursue my dream career and, finally, to bring my parents to Makkah.
 
 ## Skills 🛠️
 
