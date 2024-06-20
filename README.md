@@ -66,17 +66,17 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 ### 📄 Assignment 1: Report
 
-**Summary:** In this assignment, I conducted a comparative evaluation of various hospital websites using Google Lighthouse. This task allowed me to analyze key performance metrics such as loading speed, accessibility, and SEO. By understanding these elements, I gained valuable insights into the importance of web performance optimization and the impact it has on user experience and search engine rankings.
+**Summary:** In this assignment, me and my team conducted a comparative evaluation of various hospital websites using Google Lighthouse. This task allowed me to analyze key performance metrics such as loading speed, accessibility, and SEO. In the end of the report, I gained valuable insights into the importance of web performance optimization and the impact for the user experience.
 
-**Improvement Suggestions:** To improve this assignment, I could incorporate additional web performance tools like GTmetrix or WebPageTest for a broader perspective. Additionally, examining a more diverse set of websites, including those from different industries, would provide a comprehensive understanding of common performance issues and best practices.
+**Improvement Suggestions:** To improve this assignment, I could evaluate from other web performance tools like GTmetrix or WebPageTest for a wider information. Additionally, by evaluating in more depth of websites, would provide a comprehensive understanding of common performance issues and best practices.
 
-**Additional Reflections:** This assignment highlighted the critical role of performance audits in web development. It has inspired me to prioritize optimization in future projects. Furthermore, it underscored the need for continuous learning and adaptation to new tools and techniques in the ever-evolving field of web development.
+**Additional Reflections:** This assignment highlighted the critical role of performance evaluation in web development. It has inspired me to prioritize optimization in future projects.
 
 ### 🌐 Assignment 2: Website
 
-**Summary:** In this assignment, I designed and developed a personal website landing page using HTML and CSS. According to the theme I chose, this task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of clean code and effective styling to improve the user experience and site aesthetics.
+**Summary:** In this assignment, I designed and developed a personal website landing page using HTML and CSS. According to the theme I chose, this task enhanced my skills in front-end web development, allowing me to create a visually appealing and responsive design. Through this project, I learned the importance of intuitive design and effective styling to improve the user experience and ensure minimalist.
 
-**Improvement Suggestions:** To improve this assignment, I could incorporate JavaScript to add interactivity and dynamic content. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is optimized for various devices and screen sizes, enhancing accessibility and usability.
+**Improvement Suggestions:** To improve this assignment, I could incorporate with every feature that HTML and CSS provided. Additionally, implementing responsive design techniques using CSS frameworks like Bootstrap would ensure the landing page is optimized for various devices and screen sizes, enhancing accessibility and usability.
 
 **Additional Reflections:** This assignment reinforced the significance of foundational web development skills. It inspired me to continue exploring advanced CSS techniques and modern design trends. Moreover, it highlighted the creative potential in web design, motivating me to experiment with new ideas and push the boundaries of my coding abilities.
 
