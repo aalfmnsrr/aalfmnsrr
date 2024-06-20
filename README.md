@@ -39,7 +39,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 ## Position 👊
 
-<!-- Add your positions here -->
+- Treasurer for Silat Association in Co-curriculum subject
 
 ## Honors and Awards 🥇
 
