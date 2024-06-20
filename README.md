@@ -23,6 +23,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 <a href="https://github.com/aalfmnsrr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aalfmnsrr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
 ## Education 🎓 
 
 - Primary School - Sekolah Kebangsaan Desa Jasmin (2010 - 2015)
@@ -31,9 +32,11 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 - Foundation in Physical Science - Negeri Sembilan Matriculation College (2021 - 2022)
 - Bachelor Of Computer Science (Computer Network And Security) With Honours - University Teknologi Malaysia (2022-Now)
 
+
 ## Position 👊
 
 - Treasurer for Silat Association in Co-curriculum subject
+
 
 ## Skills 🛠️
 
@@ -41,10 +44,12 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+
 ## Courses 👨‍🎓
 
 - **Object-Oriented Programming** - Universiti Teknologi Malaysia
 - **Web Programming** - Universiti Teknologi Malaysia
+
 
 ## Certificate 📜
 
@@ -52,10 +57,15 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 - **MUET** - Band 4.0
 - **SEGTA** - Spring Course Program in Surabaya, Indonesia
 
+
 ## Honors and Awards 🥇
 
 - Dean's List - Negeri Sembilan Matriculation College (Semester I, Semester II)
 - Dean's List - University Technology Malaysia (Semester I, Semester II, Semester III)
+
+## Project 🥇
+
+- Hebak Web Application
   
 
 ## Assignments 📑
@@ -65,12 +75,15 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 - [Assignment 2: Website](http://www.alif-aiman.rf.gd/)
 - [Assignment 3: GitHub E-portfolio](https://github.com/your_github_username/your_eportfolio_repo)
 
+
 ## Projects 💻
 
 - [Project Repository](https://github.com/aalfmnsrr/Web-Programming-23-24/tree/main/Project)
 - [Project Website](https://alif-aiman-cem-hebak.000webhostapp.com/)
 
+
 ## Reflections
+
 
 ### Assignment 1: Report on Comparative Evaluation of Websites Using Google Lighthouse 📄 
 
@@ -81,6 +94,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 
 
 ***Additional Reflections:*** This assignment highlighted the critical role of performance evaluation in web development. It has inspired me to prioritize optimization in future projects.
+
 
 
 ### Assignment 2: Designing and Developing a Personal Website Landing Page with HTML and CSS 🌐 
@@ -95,6 +109,7 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ***Additional Reflections:*** This assignment depicted that the importance of web development skills are crucial in ensuring the meet of stakeholder. It inspired me to continue exploring advanced CSS techniques and modern design trends.
 
 
+
 ### Assignment 3: E-Portfolio Design and Development on GitHub 🗃 
 
 
@@ -107,7 +122,8 @@ A student who dreams to be a network administrator or cybersecurity analyst one 
 ***Additional Reflections:*** This assignment emphasized the importance of GitHub as a powerful platform for hosting and version control. Morover, I plan to continually update my e-portfolio followed by integrating new projects.
 
 
-### Development of Hebak - An Educational Website for High School Students 💻 
+
+### Project: Development of Hebak - An Educational Website for High School Students 💻 
 
 
 ***Summary:*** In this project, I developed Hebak, an educational website offering lessons for high school students. Through this development, I aimed to provide a valuable resource for students to enhance their learning experience outside the classroom. This project allowed me to apply my technical skills in web development to create a platform with educational content that allign with Ministry of Education(Malaysia).
