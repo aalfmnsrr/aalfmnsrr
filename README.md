@@ -40,27 +40,23 @@ I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), wh
 - Foundation in Physical Science - Negeri Sembilan Matriculation College (2021 - 2022)
 - Bachelor Of Computer Science (Computer Network And Security) With Honours - University Teknologi Malaysia (2022-Now)
 
-## 💼 Position
+## Position 👊
 
 <!-- Add your positions here -->
 
-## 🏆 Honors and Awards
+## Honors and Awards 🥇
 
-- Dean's List - University Technology Malaysia (2022, 2023)
-- MAKA Award - University Technology MARA (2021)
-- Anugerah Kokurikulum & Sukan Half Colour - Sport (2020)
-- Anugerah Kokurikulum & Sukan Atlet Cemerlang (Negeri) - Sport (2020)
-- Anugerah Kokurikulum & Sukan Tokoh Kecemerlangan - Sport (2019)
-- Anugerah Khas Kokurikulum Terbaik PAJSK - Sport (2019)
-- Anugerah Full Colours (Sukan Memanah) - Sport (2019)
+- Dean's List - Negeri Sembilan Matriculation College (Semester I, Semester II)
+- Dean's List - University Technology Malaysia (Semester I, Semester II, Semester III)
+  
 
 ## Assignments 📑
 
-- [Assignment 1: Report](link_to_report)
+- [Assignment 1: Report]()
 - [Assignment 2: Website](link_to_website)
 - [Assignment 3: GitHub E-portfolio](https://github.com/your_github_username/your_eportfolio_repo)
 
-## 💻 Projects
+## Projects 💻
 
 - [Project Repository](link_to_project_repo)
 - [Project Website](link_to_project_website)
