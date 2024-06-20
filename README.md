@@ -34,9 +34,11 @@ I am a 2nd-year undergraduate student at Universiti Teknologi Malaysia (UTM), wh
 
 ## Education 🎓 
 
-- Mechanical Engineering - Secondary School (2019-2020)
-- Foundation in Engineering - University Technology MARA (2021)
-- Bachelor of Computer Network Security - University Technology Malaysia (2022-Now)
+- Primary School - Sekolah Kebangsaan Desa Jasmin (2010 - 2015)
+- Secondary School - Sekolah Menengah Kebangsaan Desa Cempaka (2016 - 2018)
+- Electrical Engineering (Secondary School) - Tuaku Jaafar Technical Institute (2019 - 2020)
+- Foundation in Physical Science - Negeri Sembilan Matriculation College (2021 - 2022)
+- Bachelor Of Computer Science (Computer Network And Security) With Honours - University Teknologi Malaysia (2022-Now)
 
 ## 💼 Position
 
