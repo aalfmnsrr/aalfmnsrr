@@ -1,6 +1,5 @@
-# Aspiring Software Developer with a Passion for Problem-Solving
-
-Welcome to my e-portfolio! I am a dedicated software developer with a background in computer science. This portfolio showcases my education, skills, projects, and reflections on my learning journey.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alif Aiman
+==================================================================================================================================
 
 ## Hello, I'm Alif Aiman 👋
 
