@@ -2,9 +2,9 @@
 
 Welcome to my e-portfolio! I am a dedicated software developer with a background in computer science. This portfolio showcases my education, skills, projects, and reflections on my learning journey.
 
-## Hello, I'm Danial Erfan Shah 👋
+## Hello, I'm Alif Aiman 👋
 
-![Profile Picture](path_to_your_profile_picture.jpg)
+![Profile Picture](image/pict.jpg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
