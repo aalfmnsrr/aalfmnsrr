@@ -27,7 +27,7 @@ Building reliable, secure infrastructure and automating the boring parts.
 
 | Project | What it is |
 |---|---|
-| **AXA Wi-Fi Troubleshooting Tool** | Python Flask tool integrating Cisco DNA Center APIs — real-time network topology visualisation (User → AP → Switch → WLC) and per-device health monitoring. Presented to the full Asia network team. |
+| **[AXA Wi-Fi Troubleshooting Tool](https://github.com/aalfmnsrr/Wi-Fi-Network-Troubleshooting-Tools.git)** | Python Flask tool integrating Cisco DNA Center APIs — real-time network topology visualisation (User → AP → Switch → WLC) and per-device health monitoring. Presented to the full Asia network team. |
 | **Campus Network Simulation** | Multi-building enterprise network designed in Cisco Packet Tracer using EIGRP routing, VLAN segmentation, and DHCP. |
 
 ### 🔐 Security
