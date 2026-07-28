@@ -1,6 +1,6 @@
 # Hi 👋, I'm Alif Aiman
 
-**Computer Networks & Security graduate — seeking Network Engineering & Cybersecurity roles**
+**Computer Networks & Security graduate — seeking Network Engineering, Cybersecurity, & Network Automation roles**
 Building reliable, secure infrastructure and automating the boring parts.
 
 [LinkedIn](https://www.linkedin.com/in/alif-aiman-bin-mansor) · alfmnsr23@gmail.com
@@ -23,7 +23,7 @@ Building reliable, secure infrastructure and automating the boring parts.
 
 | Project | What it is |
 |---|---|
-| **AXA Wi-Fi Diagnostic Tool** | Python Flask tool integrating Cisco DNA Center APIs — real-time network topology visualisation (User → AP → Switch → WLC) and per-device health monitoring. Presented to the full Asia network team. |
+| **AXA Wi-Fi Troubleshooting Tool** | Python Flask tool integrating Cisco DNA Center APIs — real-time network topology visualisation (User → AP → Switch → WLC) and per-device health monitoring. Presented to the full Asia network team. |
 | **Campus Network Simulation** | Multi-building enterprise network designed in Cisco Packet Tracer using EIGRP routing, VLAN segmentation, and DHCP. |
 
 ### 🔐 Security
