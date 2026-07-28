@@ -1,9 +1,13 @@
+<div align="center">
+
 # Hi 👋, I'm Alif Aiman
 
 **Computer Networks & Security graduate — seeking Network Engineering, Cybersecurity, & Network Automation roles**
 Building reliable, secure infrastructure and automating the boring parts.
 
 [LinkedIn](https://www.linkedin.com/in/alif-aiman-bin-mansor) · alfmnsr23@gmail.com
+
+</div>
 
 ---
 
@@ -51,9 +55,17 @@ Linux (Ubuntu & Kali) · Git · Burp Suite · Wireshark
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Alif's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalfmnsrr&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aalfmnsrr&layout=compact&theme=dark)
 
+</div>
+
 ---
 
+<div align="center">
+
 📫 Reach out: alfmnsr23@gmail.com · [LinkedIn](https://www.linkedin.com/in/alif-aiman-bin-mansor)
+
+</div>
