@@ -5,7 +5,7 @@
 **Computer Networks & Security graduate — seeking Network Engineering, Cybersecurity, & Network Automation roles**
 Building reliable, secure infrastructure and automating the boring parts.
 
-[LinkedIn](https://www.linkedin.com/in/alif-aiman-bin-mansor) · alfmnsr23@gmail.com
+(https://www.linkedin.com/in/alif-aiman-bin-mansor) · alfmnsr23@gmail.com
 
 </div>
 
