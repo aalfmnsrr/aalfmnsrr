@@ -41,7 +41,7 @@ Building reliable, secure infrastructure and automating the boring parts.
 
 | Project | What it is |
 |---|---|
-| **Emergency Shutdown System** | Distributed IoT alert system using two Raspberry Pi boards, REST API, and MongoDB — control board triggers real-time alarm states on a remote emergency board. |
+| **[Emergency Shutdown System](https://github.com/aalfmnsrr/IoT-Project-Emergency-Shutdown-System.git)** | Distributed IoT alert system using two Raspberry Pi boards, REST API, and MongoDB — control board triggers real-time alarm states on a remote emergency board. |
 
 ---
 
