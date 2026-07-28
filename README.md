@@ -34,7 +34,7 @@ Building reliable, secure infrastructure and automating the boring parts.
 
 | Project | What it is |
 |---|---|
-| **GISOne** | Full-stack centre management system with security-by-design — CSRF protection, parameterized queries, XSS mitigation, RBAC, bcrypt password hashing. |
+| **[GISOne Center Management System](https://github.com/aalfmnsrr/GISOne-Center-Management-System.git)** | Full-stack centre management system with security-by-design — CSRF protection, parameterized queries, XSS mitigation, RBAC, bcrypt password hashing. |
 | **[Secure Application Development](https://github.com/aalfmnsrr/Secure-Application-Development-Project.git)** | Web app with authentication and transaction modules, tested for SQL injection and XSS using Burp Suite. |
 
 ### ⚡ IoT
